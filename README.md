@@ -1,7 +1,7 @@
 malespinr
 =========
 
-Juguete cultural sencillo.
+Juguete sencillo que convierte texto a código malespín.
 
 
 
