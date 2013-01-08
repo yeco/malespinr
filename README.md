@@ -8,8 +8,7 @@ Juguete cultural sencillo.
 De wikipedia:
 =============
 
-{{referencias}}
-El '''malespín''' es una especie de [[argot]] originado en el [[siglo XIX]] en [[El Salvador]] y que luego se extendió a el resto de [[América Central|Centroamérica]]. Actualmente es residual, y sólo subsisten algunas palabras en las hablas del [[Idioma español|español]]. 
+El *malespín* es una especie de argot originado en el siglo XIX en El Salvador y que luego se extendió a el resto de Centroamérica. Actualmente es residual, y sólo subsisten algunas palabras en las hablas del español. 
 
 
 
@@ -24,11 +23,10 @@ A grandes rasgos, consiste en cambiar unas letras por otras, así:
 
 y viceversa. 
 
-Valle agrega: « Existe la tradición de que eso lo inventó el [[general]] salvadoreño Francisco Malespín, el mismo que el año de [[Año 1845|1845]] incendió y saqueó [[León (Nicaragua)|León]], [[metrópoli]] de [[Nicaragua]].
 
-Afirma Julián Corrales Munguía, en su trabajo “El lenguaje de los bajos fondos: la [[germanía]]” ([[Año 1972|1972]]), que la clave del malespín, tan popular en años pasados, ha sido olvidada en general, pero que hay algunas personas que la recuerdan perfectamente.
+Afirma Julián Corrales Munguía, en su trabajo “El lenguaje de los bajos fondos: la germanía”, que la clave del malespín, tan popular en años pasados, ha sido olvidada en general, pero que hay algunas personas que la recuerdan perfectamente.
 
-Róger Matus Lazo expresa que en el lenguaje [[Pandilla|pandillero]] de Nicaragua se encuentran algunas palabras con ligeras variantes de la palabra original. En los siguientes ejemplos se escribe la palabra como se pronuncia actualmente, y entre paréntesis como debería escribirse de acuerdo con la clave del malespín "clásico" (a>e, i>o, b>t, m>p, f>g, y p>m):
+Róger Matus Lazo expresa que en el lenguaje pandillero de Nicaragua se encuentran algunas palabras con ligeras variantes de la palabra original. En los siguientes ejemplos se escribe la palabra como se pronuncia actualmente, y entre paréntesis como debería escribirse de acuerdo con la clave del malespín "clásico" (a>e, i>o, b>t, m>p, f>g, y p>m):
 * arpene o curpeni (arpeni): hermano; 
 * nelfes, nelfin o nelfis (nelfes): nalgas; 
 * acoi (eco): aquí; 
@@ -81,10 +79,12 @@ En los países centroamericanos se han tomado algunas palabras de este argot, ge
 * perone : marina
 * tuanis : buenos;
 
-=== Nicaragua ===
-En Nicaragua, las palabras "nelfis" ('caderas') y "tuani" ('bueno') han pasado a formar parte del habla popular. En [[Costa Rica]], existe la variante "tuanis".
+Nicaragua
+=========
+En Nicaragua, las palabras "nelfis" ('caderas') y "tuani" ('bueno') han pasado a formar parte del habla popular. En *Costa Rica*, existe la variante "tuanis".
 
-=== Costa Rica ===
-En Costa Rica es muy común hoy en día la palabra "brete" ('traba', como abreviación de trabajo), así como la palabra "tuanis" ('buenos'). Una y otra son palabras con origen en el malespín. La jerga callejera o argot de Costa Rica es conocida como: "[[pachuco]]", una variación regional del castellano con influencia de palabras y expresiones de inglés, francés, el código Malespín, criollo limonense, castellano tradicional y otras expresiones de uso popular en Costa Rica.
+Costa Rica
+==========
+En Costa Rica es muy común hoy en día la palabra "brete" ('traba', como abreviación de trabajo), así como la palabra "tuanis" ('buenos'). Una y otra son palabras con origen en el malespín. La jerga callejera o argot de Costa Rica es conocida como: "pachuco", una variación regional del castellano con influencia de palabras y expresiones de inglés, francés, el código Malespín, criollo limonense, castellano tradicional y otras expresiones de uso popular en Costa Rica.
 
 "Acoi" ('aquí') se emplea también en [[España]].
