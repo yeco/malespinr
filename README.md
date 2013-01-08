@@ -12,7 +12,7 @@ El *malespín* es una especie de argot originado en el siglo XIX en El Salvador 
 
 
 
-Dice la tradición que este argot fue inventado como una especie de clave por el militar y político salvadoreño [[Francisco Malespín]].
+Dice la tradición que este argot fue inventado como una especie de clave por el militar y político salvadoreño Francisco Malespín.
 
 A grandes rasgos, consiste en cambiar unas letras por otras, así:
 * a por e
@@ -42,9 +42,9 @@ Róger Matus Lazo expresa que en el lenguaje pandillero de Nicaragua se encuentr
 * frendi (frenda): persona grande, fuerte, fornida; 
 * Penefi o Benefia (Penefue): [[Managua]].
 
-A veces, hay vacilación en algunas palabras, como puede observarse en las [[Alternancia vocálica|alternancias]] en el sistema vocálico y en el consonántico: arpene y curpeni (hermano); cunabi, cuñedi y cuñefli (cuñado); Benefia y Penefi Managua; nelfin, nelfis y nelfes (caderas); percebi y percedi (mercado).
+A veces, hay vacilación en algunas palabras, como puede observarse en las alternancias en el sistema vocálico y en el consonántico: arpene y curpeni (hermano); cunabi, cuñedi y cuñefli (cuñado); Benefia y Penefi Managua; nelfin, nelfis y nelfes (caderas); percebi y percedi (mercado).
 
-En los países centroamericanos se han tomado algunas palabras de este argot, generalmente con ligeras variantes del término original, que los mismos usuarios han ido cambiando por olvido o desconocimiento de la clave. De acuerdo con la clave del malespín, hay muchas palabras de uso popular y [[Uso coloquial|coloquial]] que derivan de este lenguaje; entre ellas, por ejemplo, las siguientes:
+En los países centroamericanos se han tomado algunas palabras de este argot, generalmente con ligeras variantes del término original, que los mismos usuarios han ido cambiando por olvido o desconocimiento de la clave. De acuerdo con la clave del malespín, hay muchas palabras de uso popular y coloquial que derivan de este lenguaje; entre ellas, por ejemplo, las siguientes:
 
 * acoi (eco): aquí;
 * arpene o curpeni (arpeni): hermano;
@@ -87,4 +87,4 @@ Costa Rica
 ==========
 En Costa Rica es muy común hoy en día la palabra "brete" ('traba', como abreviación de trabajo), así como la palabra "tuanis" ('buenos'). Una y otra son palabras con origen en el malespín. La jerga callejera o argot de Costa Rica es conocida como: "pachuco", una variación regional del castellano con influencia de palabras y expresiones de inglés, francés, el código Malespín, criollo limonense, castellano tradicional y otras expresiones de uso popular en Costa Rica.
 
-"Acoi" ('aquí') se emplea también en [[España]].
+"Acoi" ('aquí') se emplea también en *España*.
