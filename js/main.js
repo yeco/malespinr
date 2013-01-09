@@ -13,7 +13,7 @@
 	_in.onkeyup = function () {
 		var output,
 			input = _in.value;
-			output = input.replace(/[eaoitbgfpméáóí]/ig, function(c) {
+			output = input.replace(/[eaoitbgfpméá]/ig, function(c) {
 				return {
 					"a": "e", "e": "a", "i": "o", "o": "i", "b": "t", "t": "b", "f": "g", "g": "f", "p": "m", "m": "p",
 					"A": "E", "E": "A", "I": "O", "O": "I", "B": "T", "T": "B", "F": "G", "G": "F", "P": "M", "M": "P",
