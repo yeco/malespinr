@@ -1,3 +1,11 @@
+/**
+ * Malespinr
+ * =========
+ *
+ * Nothing fancy, just some find/replace fun.
+ *
+ */
+
 (function () {
 	'use strict';
 	var _in = document.getElementById('in');
